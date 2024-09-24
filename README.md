@@ -13,5 +13,4 @@ You can find some LiDAR data from Spain at:
 
 ### Images
 
-![Image 1](./images/UnsupervisedAlgortimLidar1.png)
 ![Image 2](./images/UnsupervisedAlgortimLidar.png)
